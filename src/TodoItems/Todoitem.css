@@ -1,0 +1,51 @@
+.todo__list-wrapper {
+  cursor: pointer;
+}
+
+.todo__list-wrapper:first-child {
+  margin-bottom: 40px;
+}
+
+.todo__list-delete {
+  opacity: 0.3;
+}
+
+.todo__list-delete:hover {
+  opacity: 1;
+}
+
+.todo__list-text:hover {
+  text-decoration: underline;
+}
+
+.addtodo {
+  margin-top: 40px;
+}
+
+.todo__list-wrapper svg {
+  margin-right: 15px;
+}
+
+.todo__list-item {
+  text-overflow: ellipsis;
+  padding: 10px 10px;
+}
+
+.todo__list-delete:hover {
+  text-decoration: underline;
+}
+
+.todo__list-item:hover {
+  background: #f3f3f3;
+}
+
+.todo__list-item.todo-item{
+  display: flex;
+  justify-content: space-between;
+}
+
+.todo__list-text {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}

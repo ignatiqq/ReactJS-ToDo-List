@@ -1,0 +1,62 @@
+.addtodo_wrapper {
+  position: relative;
+}
+
+.addtodo__popup {
+  position: absolute;
+  top: 50px;
+  left: 0px;
+  background: #ffffff;
+  border: 1px solid #9a9a9e;
+  border-radius: 10px;
+}
+
+.addtodo__popup-wrapper {
+  display: flex;
+  flex-direction: column;
+  padding: 20px 15px;
+}
+
+.addtodo__popup-input {
+  width: 97%;
+  background: transparent;
+  border: 1px solid #9a9a9e;
+  box-sizing: border-box;
+  margin-bottom: 18px;
+}
+
+.addtodo__popup-colors-text {
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.addtodo__popup-colors-wrapper {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 10px;
+}
+
+.addtodo__popup-colors-items {
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+.addtodo__popup-colors-items.active {
+  border: 1px solid #000;
+}
+
+.addtodo__popup-addBtn {
+  background: transparent;
+  border: 1px solid #9a9a9e;
+  box-sizing: border-box;
+  padding: 9px 48px;
+  cursor: pointer;
+  transition: all .15s ease-in;
+}
+
+.addtodo__popup-addBtn:hover {
+  color: #fff;
+  background: #9a9a9e;
+}

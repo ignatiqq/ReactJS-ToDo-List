@@ -1,0 +1,102 @@
+.task {
+  height: 100%;
+}
+
+.todo__task {
+  background: #ffffff;
+  padding: 50px;
+  height: 88%;
+}
+
+.btnadd {
+  cursor: pointer;
+  background: transparent;
+  padding: 10px 48px;
+  transition: all 0.15s ease-in;
+  border: 1px solid #9a9a9e;
+}
+
+.btnadd:hover {
+  color: #fff;
+  background: #9a9a9e;
+}
+
+.taskplaceholder {
+  height: 99%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #ffffff;
+  border: 1px solid #9a9a9e;
+}
+
+.taskplaceholder h1 {
+  font-size: 30px;
+}
+
+.todo__task-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.todo__task-name {
+  font-size: 26px;
+}
+
+.checkbox {
+  position: relative;
+}
+
+.checkbox label {
+  display: block;
+  border: 2px solid #9a9a9e;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+
+input:checked + label {
+  background: url('../assets/img/Vector\ 6.png') no-repeat;
+  background-size: 100%;
+  background-position: center center;
+}
+
+.checkbox input {
+  width: 1px;
+  height: 20px;
+  position: absolute;
+  opacity: 0;
+  appearance: none;
+  cursor: pointer;
+}
+
+.todo__task-text {
+  margin-left: 10px;
+}
+
+.taskbtn {
+  opacity: 0.6;
+  margin: 5px 0px 0px 5px;
+  cursor: pointer;
+  background: transparent;
+  border: none;
+  outline: none;
+  transition: all 0.15s ease-in;
+}
+
+.taskbtn:hover {
+  opacity: 1;
+}
+
+.changename {
+  top: 20px;
+  left: 50%;
+  transform: translate(-50%);
+  position: fixed;
+}
+
+.todo__task-itemwrapper {
+  display: flex;
+  align-items: center;
+}

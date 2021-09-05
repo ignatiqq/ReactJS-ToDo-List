@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+html {
+  font-family: 'Montserrat', sans-serif;
+  background: rgb(233, 233, 233);
+  font-size: 20px;
+}
+
+.todo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: calc(100vh - 16px);
+}
+
+.todo__container {
+  display: flex;
+  width: 80%;
+  height: 80%;
+  border: 1px solid #9a9a9e;
+}
+
+.todo__sidebar {
+  width: 400px;
+  background: #f8f8f8;
+  padding: 0px 30px;
+  border-right: 1px solid #9a9a9e;
+}
+
+.sidebar__title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 130px;
+}
+
+.sidebar__title-item {
+  font-size: 25px;
+}
+
+.todo__list-item {
+  display: flex;
+  align-items: center;
+}
+
+input {
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+  padding: 5px 10px;
+}
+
+button {
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.todo__alltasktables {
+  width: 80%;
+  overflow: auto;
+}

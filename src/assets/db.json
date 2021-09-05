@@ -1,0 +1,49 @@
+{
+  "lists": [
+    {
+      "name": "asdfasdf",
+      "colorId": 5,
+      "tasks": [],
+      "id": 1
+    },
+    {
+      "name": "dsfgsdfgdsg",
+      "colorId": 3,
+      "tasks": [],
+      "id": 2
+    },
+    {
+      "name": "вапр",
+      "colorId": 6,
+      "tasks": [],
+      "id": 3
+    }
+  ],
+  "tasks": [],
+  "colors": [
+    {
+      "id": 1,
+      "hex": "#FF1493"
+    },
+    {
+      "id": 2,
+      "hex": "#FFD700"
+    },
+    {
+      "id": 3,
+      "hex": "#4B0082"
+    },
+    {
+      "id": 4,
+      "hex": "#008000"
+    },
+    {
+      "id": 5,
+      "hex": "#1E90FF"
+    },
+    {
+      "id": 6,
+      "hex": "#DC143C"
+    }
+  ]
+}
