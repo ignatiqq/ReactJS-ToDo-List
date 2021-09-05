@@ -1,25 +1,26 @@
 {
   "lists": [
     {
-      "name": "asdfasdf",
-      "colorId": 5,
+      "name": "21341234",
+      "colorId": 4,
       "tasks": [],
       "id": 1
     },
     {
-      "name": "dsfgsdfgdsg",
-      "colorId": 3,
+      "name": "ghfj",
+      "colorId": 5,
       "tasks": [],
       "id": 2
-    },
-    {
-      "name": "вапр",
-      "colorId": 6,
-      "tasks": [],
-      "id": 3
     }
   ],
-  "tasks": [],
+  "tasks": [
+    {
+      "listId": 2,
+      "text": "hfgjfhg",
+      "completed": false,
+      "id": 1
+    }
+  ],
   "colors": [
     {
       "id": 1,
