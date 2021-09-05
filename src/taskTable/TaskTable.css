@@ -18,12 +18,11 @@
 }
 
 .taskplaceholder {
-  height: 99%;
+  height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
   background: #ffffff;
-  border: 1px solid #9a9a9e;
 }
 
 .taskplaceholder h1 {

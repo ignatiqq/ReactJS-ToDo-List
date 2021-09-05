@@ -1,26 +1,13 @@
 {
   "lists": [
     {
-      "name": "21341234",
-      "colorId": 4,
-      "tasks": [],
-      "id": 1
-    },
-    {
-      "name": "ghfj",
+      "name": "dfgdfgdfg",
       "colorId": 5,
       "tasks": [],
-      "id": 2
-    }
-  ],
-  "tasks": [
-    {
-      "listId": 2,
-      "text": "hfgjfhg",
-      "completed": false,
       "id": 1
     }
   ],
+  "tasks": [],
   "colors": [
     {
       "id": 1,
