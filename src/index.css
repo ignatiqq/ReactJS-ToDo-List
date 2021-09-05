@@ -22,6 +22,7 @@ html {
 }
 
 .todo__sidebar {
+  overflow: auto;
   width: 400px;
   background: #f8f8f8;
   padding: 0px 30px;
