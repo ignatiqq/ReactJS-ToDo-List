@@ -2,7 +2,7 @@ TODOLIST✍
 =====================
 **Demo of project:**
 
-![blogscreen](https://sun9-47.userapi.com/impg/2ZuhV_o00M386KSwOe87Nir8fv2RzTJTZzhPpg/hJSY29brDww.jpg?size=1741x864&quality=96&sign=56c8bdef09d7d49354763b9470256132&type=album)
+![blogscreen](https://sun9-66.userapi.com/impg/lm_XzAyY81fiOrxyzUMoO0ykwTw10bfM12nVXg/sb9aKeayXSg.jpg?size=1638x861&quality=96&sign=6b8ddc9bc970de070340fe9ebb4be76f&type=album)
 
 Features
 =====================
