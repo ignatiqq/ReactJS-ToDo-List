@@ -6,7 +6,7 @@ TODOLIST✍
 
 Features
 =====================
-The to-do list acts as a task book. You can add a folder, a task, mark the task completed. To do list has a pretty, intuitive interface.
+The to-do list acts as a task book. You can add a folder, color of todo, a task, mark the task completed. To do list has a pretty, intuitive interface.
 
 Tech Stack:
 =====================
